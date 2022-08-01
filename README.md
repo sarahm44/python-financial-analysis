@@ -1,5 +1,5 @@
 # Python Financial Analysis
-![Revenue](Images/revenue-per-lead.jpg)
+![Revenue](https://github.com/sarahm44/python-homework/blob/main/revenue-per-lead.jpg)
 
 ## Overview
 In this activity, I was tasked with creating a Python script for analyzing the financial records of a company. 
