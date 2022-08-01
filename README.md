@@ -22,7 +22,7 @@ My task was to create a Python script that analyzes the records to calculate eac
 
 * The greatest decrease in losses (date and amount) over the entire period.
 
-## Final Analysis
+## Final Analysis:
 My final script is contained in [main.ipynb](https://github.com/sarahm44/python-homework/blob/main/PyBank/main.ipynb). 
 
 It prints the analysis to the terminal and export a text file with the results.
