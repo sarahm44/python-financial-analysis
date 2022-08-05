@@ -25,7 +25,7 @@ My task was to create a Python script that analyzes the records to calculate eac
 ## Final Analysis:
 My final script is contained in [main.ipynb](https://github.com/sarahm44/python-financial-analysis/blob/main/PyBank/main.ipynb). 
 
-It prints the analysis to the terminal and export a text file with the results.
+It prints the analysis to the terminal and exports a text file with the results.
 
 My resulting analysis is contained in this text file: [Financial_analysis.txt](https://github.com/sarahm44/python-financial-analysis/blob/main/PyBank/Financial_analysis.txt)
 
